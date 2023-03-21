@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AB+2b5kpfEYuNQNSV4LzjcvBRXKdFhiZEp6qq/v0UWHeKM2IG5jdwW8HQS/5JmPuNdTvvrcUi1BZWDLy/3wwZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administración\\Desktop\\JuegoDados\\Coincidencia\\Coincidencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administración\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

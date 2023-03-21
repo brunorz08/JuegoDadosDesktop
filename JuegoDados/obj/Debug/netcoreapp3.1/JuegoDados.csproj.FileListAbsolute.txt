@@ -1,0 +1,42 @@
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.exe
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.deps.json
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.runtimeconfig.json
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.runtimeconfig.dev.json
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.dll
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.pdb
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.csproj.AssemblyReference.cache
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.AssemblyInfoInputs.cache
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.AssemblyInfo.cs
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.dll
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.pdb
+C:\Users\Administración\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.genruntimeconfig.cache
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.exe
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.deps.json
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.runtimeconfig.json
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.runtimeconfig.dev.json
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.dll
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.pdb
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.csproj.AssemblyReference.cache
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.AssemblyInfoInputs.cache
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.AssemblyInfo.cs
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.dll
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.pdb
+C:\Users\pcser\Desktop\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.genruntimeconfig.cache
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.exe
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.deps.json
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.runtimeconfig.json
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.runtimeconfig.dev.json
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.dll
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\bin\Debug\netcoreapp3.1\JuegoDados.pdb
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.csproj.AssemblyReference.cache
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.AssemblyInfoInputs.cache
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.AssemblyInfo.cs
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.dll
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.pdb
+C:\Users\pcser\Desktop\Proyectos de práctica\JuegoDados\JuegoDados\obj\Debug\netcoreapp3.1\JuegoDados.genruntimeconfig.cache

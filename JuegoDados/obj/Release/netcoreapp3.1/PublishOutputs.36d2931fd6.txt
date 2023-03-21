@@ -1,0 +1,5 @@
+C:\Users\pcser\Desktop\JuegoDados.exe
+C:\Users\pcser\Desktop\JuegoDados.dll
+C:\Users\pcser\Desktop\JuegoDados.deps.json
+C:\Users\pcser\Desktop\JuegoDados.runtimeconfig.json
+C:\Users\pcser\Desktop\JuegoDados.pdb

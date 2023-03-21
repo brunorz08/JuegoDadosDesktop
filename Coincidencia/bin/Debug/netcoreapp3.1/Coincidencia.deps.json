@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Coincidencia/1.0.0": {
+        "dependencies": {
+          "JuegoDados": "1.0.0"
+        },
+        "runtime": {
+          "Coincidencia.dll": {}
+        }
+      },
+      "JuegoDados/1.0.0": {
+        "runtime": {
+          "JuegoDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coincidencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JuegoDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
